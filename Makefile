@@ -6,8 +6,8 @@
 
 include $(TOPDIR)/rules.mk
 
-THEME_NAME:=bootstrap
-THEME_TITLE:=Bootstrap
+THEME_NAME:=apuacom
+THEME_TITLE:=Apuacom
 
 PKG_NAME:=luci-theme-$(THEME_NAME)
 PKG_VERSION:=1
